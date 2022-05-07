@@ -1,33 +1,38 @@
 # LearnCpp
-Simple programs that helped me learn C++. There is a program for every topic I learned, such as variables, data structures, functions, and classes.
 
-# Overview
+## Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This repository is a collection of simple programs that helped me learn C++. There is a program for every topic I learned, such as variables, data structures, functions, and classes.
 
-{Provide a description the software that you wrote to demonstrate the C++ language.}
+TODO: {Provide a description the software that you wrote to demonstrate the C++ language.}
 
-{Describe your purpose for writing this software.}
+I learned C++ because it is a powerful language that is commonly used in software development. It is a lower level programming language that can be used as a functional, object oriented, procedural, and more. 
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
+TODO: {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
 
 [Software Demo Video](http://youtube.link.goes.here)
 
-# Development Environment
+## Development Environment
 
-{Describe the tools that you used to develop the software}
+Visual Studio is a viable IDE for C++ development. Unlike VS Code, Visual Studio has a built in C++ complier, which makes C++ development convenient.
 
-{Describe the programming language that you used and any libraries.}
+I did not use any libraries Since I am new to this programming language, I focused on the main concepts
 
-# Useful Websites
+## Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Youtube Playlist: C++ for beginners](https://youtube.com/playlist?list=PL43pGnjiVwgQHLPnuH9ch-LhZdwckM8Tq)
+* [C++ Recursion](https://www.programiz.com/cpp-programming/recursion)
+* [Header files in C/C++ and its uses](https://www.geeksforgeeks.org/header-files-in-c-cpp-and-its-uses/)
+* [W3schools: C++ Introduction](https://www.w3schools.com/cpp/cpp_intro.asp)
+* [LinkedIn Learning Course: Learning C++](https://www.linkedin.com/learning-login/share?account=2153100&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-c-plus-plus-14267389%3Ftrk%3Dshare_ent_url%26shareId%3DBA%252BpvcX0QvWEmw8acQUvVw%253D%253D) 
 
-# Future Work
+## Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+TODO: {Make a list of things that you need to fix, improve, and add in the future.}
+
+There are some things that I did not get to that I would like to learn in the future.
+* game development
+* libraries
+* drawing windows
+* import other C++ files
+* Binary trees
