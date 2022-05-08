@@ -41,6 +41,7 @@ TODO: {Make a list of things that you need to fix, improve, and add in the futur
 There are some things that I did not get to that I would like to learn in the future.
 * game development
 * libraries
-* drawing windows
+* recursion
+  * My fibonacci program uses recursion. It doesn't work yet, so I need to fix the recursion.  
 * import other C++ files
 * Binary trees
