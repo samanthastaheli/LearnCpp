@@ -32,6 +32,7 @@ I did not use any libraries Since I am new to this programming language, I focus
 * [Vectors in C++ STL](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
 * [cin in C++](https://www.geeksforgeeks.org/cin-in-c/)
 * [Lambda Expressions in C++](https://docs.microsoft.com/en-us/cpp/cpp/lambda-expressions-in-cpp?view=msvc-170)
+* [Operators in C](https://www.geeksforgeeks.org/operators-in-c-set-1-arithmetic-operators/)
 
 ## Future Work
 
