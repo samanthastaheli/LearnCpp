@@ -2,15 +2,13 @@
 
 ## Overview
 
-This repository is a collection of simple programs that helped me learn C++. There is a program for every topic I learned, such as variables, data structures, functions, and classes.
+This repository is a collection of simple programs that helped me learn C++. There is a program for every topic I learned, such as variables, data structures, functions, and classes. I learned C++ because it is a powerful language that is commonly used in software development. It is a lower-level programming language that can be used for functional programming, object-oriented programming, procedural programming, and more. 
 
-TODO: {Provide a description the software that you wrote to demonstrate the C++ language.}
+[HelloWorld](https://github.com/samanthastaheli/LearnCpp/blob/main/HelloWorld.cpp) is the first C++ code I wrote. If you didn't gather from the file name, it is a simple function that prints "Hello World!" in the terminal. 
 
-The purpose of writing this software was to learn the basics of C++. 
+The purpose of the [useFunctions](https://github.com/samanthastaheli/LearnCpp/blob/main/useFunctions.cpp), [VarTypes](https://github.com/samanthastaheli/LearnCpp/blob/main/VarTypes.cpp), [useClasses](https://github.com/samanthastaheli/LearnCpp/blob/main/useClasses.cpp), [useStruct](https://github.com/samanthastaheli/LearnCpp/blob/main/useStruct.cpp), [useLambda](https://github.com/samanthastaheli/LearnCpp/blob/main/useLambda.cpp), and [userInput](https://github.com/samanthastaheli/LearnCpp/blob/main/userInput.cpp) programs was to learn the basics of C++. Each program demonstrates a different element of C++. For example, VarTypes creates and prints different types of variables that can be used in C++. From making these programs I was able to utilize the basic elements I learned to create [factorial](https://github.com/samanthastaheli/LearnCpp/blob/main/factorial.cpp), [findPrimes](https://github.com/samanthastaheli/LearnCpp/blob/main/findPrimes.cpp), and [fibonacci](https://github.com/samanthastaheli/LearnCpp/blob/main/fibonacci.cpp) programs.
 
-I learned C++ because it is a powerful language that is commonly used in software development. It is a lower level programming language that can be used as a functional, object oriented, procedural, and more. 
-
-TODO: {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
+A slightly more intricate program in this repository is the [calculator](https://github.com/samanthastaheli/LearnCpp/blob/main/calculator.cpp). It is composed of multiple functions and utilizes while loops, if statements, mathematical operators, and user input.  
 
 A demo video is linked bellow.
 
@@ -18,13 +16,13 @@ A demo video is linked bellow.
 
 ## Development Environment
 
-Visual Studio is a viable IDE for C++ development. Unlike VS Code, Visual Studio has a built in C++ complier, which makes C++ development convenient.
+Visual Studio is a viable IDE for C++ development. Unlike VS Code, Visual Studio has a built in C++ compiler, which makes C++ development convenient.
 
-I did not use any libraries Since I am new to this programming language, I focused on the main concepts
+I did not use any libraries since I am new to this programming language. Instead, I focused on the main concepts.
 
 ## Useful Websites
 
-* [Youtube Playlist: C++ for beginners](https://youtube.com/playlist?list=PL43pGnjiVwgQHLPnuH9ch-LhZdwckM8Tq)
+* [YouTube Playlist: C++ for beginners](https://youtube.com/playlist?list=PL43pGnjiVwgQHLPnuH9ch-LhZdwckM8Tq)
 * [C++ Recursion](https://www.programiz.com/cpp-programming/recursion)
 * [Header files in C/C++ and its uses](https://www.geeksforgeeks.org/header-files-in-c-cpp-and-its-uses/)
 * [W3schools: C++ Introduction](https://www.w3schools.com/cpp/cpp_intro.asp)
@@ -38,9 +36,9 @@ I did not use any libraries Since I am new to this programming language, I focus
 
 The following list is some things that I did not get to that I would like to learn in the future.
 
-* game development
-* libraries
-* recursion
-  * My fibonacci program uses recursion. It doesn't work yet, so I need to fix the recursion.  
-* import other C++ files
+* Game development
+* Libraries
+* Recursion
+  * My Fibonacci program uses recursion. It doesn't work yet, so I need to fix the recursion.  
+* Import other C++ files
 * Binary trees
