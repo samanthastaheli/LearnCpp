@@ -12,7 +12,7 @@ A slightly more intricate program in this repository is the [calculator](https:/
 
 A demo video is linked bellow.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/3ISYex14svI) 
 
 ## Development Environment
 
