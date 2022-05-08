@@ -36,9 +36,8 @@ I did not use any libraries Since I am new to this programming language, I focus
 
 ## Future Work
 
-TODO: {Make a list of things that you need to fix, improve, and add in the future.}
+The following list is some things that I did not get to that I would like to learn in the future.
 
-There are some things that I did not get to that I would like to learn in the future.
 * game development
 * libraries
 * recursion
