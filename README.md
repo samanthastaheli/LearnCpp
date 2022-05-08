@@ -4,7 +4,7 @@
 
 This repository is a collection of simple programs that helped me learn C++. There is a program for every topic I learned, such as variables, data structures, functions, and classes. I learned C++ because it is a powerful language that is commonly used in software development. It is a lower level programming language that can be used as a functional, object oriented, procedural, and more. 
 
-[HelloWorld](HelloWorld.cpp) is the first C++ code I wrote ([link to HelloWorld.cpp](HellowWorld.cpp)). If you didn't gather from the file name, it is a simple function that prints "Hello World!" in the terminal. 
+[HelloWorld](HelloWorld.cpp) is the first C++ code I wrote ([link to HelloWorld.cpp](https://github.com/samanthastaheli/LearnCpp/blob/main/HelloWorld.cpp)). If you didn't gather from the file name, it is a simple function that prints "Hello World!" in the terminal. 
 
 The purpose of the useFunctions, [VarTypes](VarTypes.cpp), [useClasses](useClasses.cpp), useStruct, useLambda, and userInput programs was to learn the basics of C++. Each program demonstartes a different element of C++. For example, VarTypes creates amd prints different types of variables that can be used in C++ ([link to VarTypes.cpp](VarTypes.cpp)). From making these programs I was able to utilize the basic elements I learned to create factorial, findPrimes, and [fibonacci](fibonacci.cpp) programs.
 
